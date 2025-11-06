@@ -1,6 +1,6 @@
 # ts-proto-issue
 
-This repo serves as a minimal reproduction of an issue with [ts-proto](https://github.com/stephenh/ts-proto).
+This repo serves as a minimal reproduction of an issue with [ts-proto](https://github.com/stephenh/ts-proto). Link to the relevant [GitHub issue](https://github.com/stephenh/ts-proto/issues/1228).
 
 ## Problem
 
